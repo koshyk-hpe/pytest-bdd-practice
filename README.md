@@ -179,3 +179,14 @@ e.g.,
 pytest examples/test_rules.py -v
 ```
 
+## Official Documentation
+
+Link for the [official documentation](https://pytest-bdd.readthedocs.io/en/stable/#)
+
+## Reach out
+
+You have reached the end of this document.<br>
+Thank you for your patience.<br>
+If you have any questions, feedback, or suggestions, feel free to reach out.<br>
+
+- 📧 Email: [kamali.koshy@hpe.com](mailto:kamali.koshy@hpe.com)  
